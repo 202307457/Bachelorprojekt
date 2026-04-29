@@ -8,6 +8,6 @@
 #
 #Til regression: 
 #Trin 1: Lav en mappe på din computer og tilføj her filen "WML.xlsx" fra Regression her i GitHub
-#Trin 2: Trin 2: Åben R-filen og tilføj stien til ovenstående mappe
+#Trin 2: Trin 2: Åben R-file "Momentum Regression.R" og tilføj stien til ovenstående mappe
 #Trin 3: Kør R-script
 #Trin 4: Resultaterne vil fremgå i excelfilen "momentum_regression_eur_resultater-kopi.xlsx"
