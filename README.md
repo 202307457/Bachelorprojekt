@@ -11,3 +11,6 @@
 #Trin 2: Trin 2: Åben R-file "Momentum Regression.R" og tilføj stien til ovenstående mappe
 #Trin 3: Kør R-script
 #Trin 4: Resultaterne vil fremgå i excelfilen "momentum_regression_eur_resultater-kopi.xlsx"
+#
+#Resultater: 
+#Hvis man ikke ønsker selv at generere resultaterne, findes disse i mappen "Resultater"
